@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Web Developer | Learning Backend | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+to+code.;I+build+cool+web+apps!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+to+code.;I+build+cool+web+apps!+💻" alt="Typing SVG" />
 </p>
+
 
 ---
 
